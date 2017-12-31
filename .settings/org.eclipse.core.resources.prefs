@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/ExamManager/ExamContent.jsp=UTF-8
+encoding//WebContent/WEB-INF/QuestionBankManager/QuestionManagement.jsp=UTF-8
+encoding//src/wp/CONTROLLER/deleteController.java=UTF-8
+encoding//src/wp/CONTROLLER/updateController.java=UTF-8
+encoding//src/wp/DAO/DataAccess.java=UTF-8
+encoding//src/wp/DAO/questionsDAO.java=UTF-8
+encoding//src/wp/DAO/rolesDAO.java=UTF-8
+encoding//src/wp/DAO/testDAO.java=UTF-8
+encoding//src/wp/DAO/usersDAO.java=UTF-8
